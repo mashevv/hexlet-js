@@ -1,9 +1,7 @@
-{
-  "name": "hexlet",
-  "version": "1.0.0",
-  "type": "module",
-  "description": "",
-  "main": "index.js",
+ {
+  "name": "my-app",
+  "version": "0.0.0",
+  "type": "module", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/mashevv/hexlet-js/issues"
   },
-  "homepage": "https://github.com/mashevv/hexlet-js#readme"
+  "homepage": "https://github.com/mashevv/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
