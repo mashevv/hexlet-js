@@ -1,3 +1,4 @@
-console.log("Hello, Hexlet!");
-import _ from "./node_modules/lodash/lodash.js";
-console.log(_.last(["one", "two"]));
+import _ from 'lodash/lodash.js';
+
+console.log('Hello, Hexlet!');
+console.log(_.last(['one', 'two']));
